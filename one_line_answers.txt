@@ -1,0 +1,12 @@
+
+
+A: It is used to find the past commands or command history
+
+
+B: using ls -a command we can list out the hidden directories
+
+
+C: I am comfortable using Linux-based OS like Ubuntu, Mac OS
+
+
+D: Yes I have used Apache server to host web application 
